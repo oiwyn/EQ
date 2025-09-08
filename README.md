@@ -1,4 +1,4 @@
-# EQ
+# PEQ
 Equalizer settings for my audio peripherals to be imported via Peace.
 
 # How to use
