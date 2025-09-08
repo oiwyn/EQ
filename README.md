@@ -18,7 +18,7 @@ Equalizer settings for my audio peripherals to be imported via Peace.
 #### Others 🎧
 - Final Audio E3000
 - Final Audio A8000
-- Moondrop Starfield
+- [Moondrop Starfield](https://github.com/oiwyn/EQ/blob/ef8d51d5caaddef93bbf8740e53eba683e1cfce0/ok-peq-moondrop-starfield.txt) _(slight adjustment to Crinacle's newest tuning)_
 - DUNU DaVinci
 - Sennheiser HD600
 
