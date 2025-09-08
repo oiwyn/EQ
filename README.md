@@ -9,11 +9,11 @@ Equalizer settings for my audio peripherals to be imported via Peace.
 
 # Peripherals
 ### Speakers
-- Logitech Z120 _(I know it sucks, tried my best to EQ it, now it's quite decent imo)_ - [click](https://github.com/oiwyn/EQ/blob/f09dfc3e36a91762da63bd7d03a6ed1c3c3e95f5/ok-peq-logitech-z120.txt)
+- [Logitech Z120](https://github.com/oiwyn/EQ/blob/f09dfc3e36a91762da63bd7d03a6ed1c3c3e95f5/ok-peq-logitech-z120.txt) / _(I know it sucks, tried my best to EQ it, now it's quite decent imo)_ 
 
 ### IEMs
 #### Gaming
-- Final Audio VR3000 _(tuned to Harman 2023)_ - [click](https://github.com/oiwyn/EQ/blob/f09dfc3e36a91762da63bd7d03a6ed1c3c3e95f5/ok-peq-final-vr3000.txt)
+- [Final Audio VR3000](https://github.com/oiwyn/EQ/blob/f09dfc3e36a91762da63bd7d03a6ed1c3c3e95f5/ok-peq-final-vr3000.txt) / _(tuned to Harman 2023)_ 
 
 #### Others
 - Final Audio E3000
