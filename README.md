@@ -1,5 +1,5 @@
 # PEQ
-Equalizer settings for my audio peripherals to be imported via Peace.
+My personal equalizer settings for my audio peripherals to be imported via Peace (or any other apps that allow importing EQ files).
 
 # How to use
 - Install Equalizer APO and Peace EQ
