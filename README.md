@@ -22,6 +22,13 @@ My personal equalizer settings for my audio peripherals to be imported via Peace
 - DUNU DaVinci
 - Sennheiser HD600
 
+### DACs
+- Moondrop Dawn Pro
+- FiiO BTR3
+
+### DAPs
+- Astell&Kern Jr
+
 # Tools
 - Equalizer APO (https://sourceforge.net/projects/equalizerapo/)
 - Peace Equalizer (https://sourceforge.net/projects/peace-equalizer-apo-extension/)
